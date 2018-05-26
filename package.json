@@ -1,0 +1,19 @@
+{
+  "name": "node_website_crawler",
+  "version": "1.0.0",
+  "description": "Website crawling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crawl",
+    "parse",
+    "scrap"
+  ],
+  "author": "Mustafa Omran",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.1.3"
+  }
+}
